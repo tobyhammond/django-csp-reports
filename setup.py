@@ -32,7 +32,7 @@ LONG_DESCRIPTION = open(os.path.join(os.path.dirname(__file__), "README.md")).re
 
 setup(
     name='django-csp-reports',
-    version="{{VERSION_PLACEHOLDER}}",
+    version="1.9.2",
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
